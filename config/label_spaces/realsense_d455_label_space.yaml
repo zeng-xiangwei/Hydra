@@ -1,0 +1,13 @@
+---
+total_semantic_labels: 6
+dynamic_labels: []
+invalid_labels: []
+object_labels: [1, 2, 3, 4]
+surface_places_labels: [5]
+label_names:
+  - {label: 0, name: unknown}
+  - {label: 1, name: desk}
+  - {label: 2, name: sofa}
+  - {label: 3, name: TV cabinet}
+  - {label: 4, name: toy}
+  - {label: 5, name: floor}
